@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Hello world]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="108" started-at="2022-08-18T13:10:46 IST" finished-at="2022-08-18T13:10:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="108" started-at="2022-08-18T13:10:46 IST" finished-at="2022-08-18T13:10:46 IST">
+      <class name="testngpack.test">
+        <test-method status="PASS" signature="a()[pri:0, instance:testngpack.test@1e965684]" name="a" duration-ms="22" started-at="2022-08-18T13:10:46 IST" finished-at="2022-08-18T13:10:46 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello world]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a -->
+      </class> <!-- testngpack.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
